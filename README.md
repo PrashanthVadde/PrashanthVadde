@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Developer job
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on mini projects
-- 📫 How to reach me => thorough messging in Gihub to @PrashanthVadde
+- 📫 How to reach me => thorough messging in Gihub to #PrashanthVadde
 - 💻👨🏻‍💻 Having skills => Python | HTML | CSS | Bootstrap | JavaScript | SQL | Node.js | Express.js | React.js
 
 <!---
