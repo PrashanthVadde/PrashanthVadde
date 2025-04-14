@@ -7,7 +7,7 @@ Web Developer and Designer
 I am very interested in creating beautiful Frontend projects and love React
 
 * 🌍  I'm based in Hyderabad City
-* 🖥️  See my portfolio at [MyPortfolio](https://shanthnxtwatch..ccbp.tech/) userName: praneetha password: praneetha@2021
+* 🖥️  See my portfolio at [MyPortfolio](https://shanthnxtwatch.ccbp.tech/login) userName: praneetha password: praneetha@2021
 * ✉️  You can contact me at [vaddeprashanth116@gmail.com](mailto:vaddeprashanth116@gmail.com)
 * 🚀  I'm currently working on [React.js Projects](http://shanthImgGame.ccbp.tech)
 * 🧠  I'm learning React.js
