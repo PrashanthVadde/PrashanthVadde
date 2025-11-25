@@ -10,7 +10,7 @@ I am very interested in creating beautiful Frontend projects and love React
 * 🖥️  See my portfolio at [MyPortfolio](https://shanthnxtwatch.ccbp.tech/login) userName: praneetha password: praneetha@2021
 * ✉️  You can contact me at [vaddeprashanth116@gmail.com](mailto:vaddeprashanth116@gmail.com)
 * 🚀  I'm currently working on [React.js Projects](http://shanthImgGame.ccbp.tech)
-* 🧠  I'm learning Full Stack Developer
+* 🧠  I'm a Full Stack Developer
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm secretly a Spiderman . . . .but don't tell anyone
 
